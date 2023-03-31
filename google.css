@@ -1,0 +1,32 @@
+
+center {
+    display: block;
+    text-align: -webkit-center;
+}
+table {
+    border-collapse: separate;
+    text-indent: initial;
+    white-space: normal;
+    line-height: normal;
+    
+    
+    font-style: normal;
+    color: -internal-quirk-inherit;
+    text-align: start;
+    border-spacing: 2px;
+    font-variant: normal;
+    
+   
+   
+}
+td {
+    display: table-cell;
+    vertical-align: inherit;
+}
+input{
+
+
+
+    font-size: 20px;
+    
+}
